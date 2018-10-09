@@ -9,8 +9,6 @@ spring:
   profiles: dev
   application: 
     name: microservicecloud-config-client
-user:
-  name:ss
 eureka: 
   client: 
     service-url: 
@@ -22,8 +20,6 @@ spring:
   profiles: test
   application: 
     name: microservicecloud-config-client
-user:
-  name:yy
 eureka: 
   client: 
     service-url: 
